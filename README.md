@@ -1,2 +1,4 @@
 # tapcash-page
 A landing page for a e-money card company for a seamless digital transaction
+
+![image alt][[tapcash-screenshot.png](https://github.com/midakhaerani/tapcash-page/blob/5ed0ef96c94b3851defc21fb371edc2c18219333/tapcash-screenshot.png)]
